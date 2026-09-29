@@ -1,0 +1,28 @@
+body {
+    font-family:sans-serif;
+}
+p,
+ul {
+    background-color: lightgray;
+    border:7px solid black;
+    padding: 10px;
+    margin: 30px;
+}
+
+span,
+li {
+    background-color: white;
+    border:2px solid blue;
+    padding: 10px;
+    margin: 30px;
+}
+
+ul {
+    display:inline-flex;
+    list-style: none;
+    padding:10px;
+}
+
+.inline {
+    display: inline
+}

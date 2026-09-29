@@ -1,0 +1,22 @@
+div{
+    padding: 30px;
+    text-align: center;
+    margin: 10px 0 0 0;
+    color: black;
+}
+
+.introduction{
+    background-color: lightblue;
+}
+
+.main-content{
+    background-color: lightgreen;
+}
+
+.conclusion{
+    background-color: lightyellow;
+}
+
+.contact-us{
+    background-color: lightpink;
+}   
