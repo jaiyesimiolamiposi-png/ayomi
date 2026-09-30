@@ -1,24 +1,11 @@
-.flex-container {
-  display: flex; /* This turns the div into a flex container */
-  gap: 10px;     /* Optional: adds space between the flex items */
-}
-
-.flex-container {
-  display: flex; /* This turns the div into a flex container */
-  gap: 10px;     /* Optional: adds space between the flex items */
-}
-
-.flex-item {
-  /* You can style your items normally; they are already flex items! */
-  background-color: lightgray;
+.container{
+  display: flex;
+  border: 10px solid black;
   padding: 20px;
 }
 
-.container {
-  display: flex; /* This turns the div into a flex container */
-  align-items: flex-start; /* Rest of the items stay at the top */
-}
-
-.special-item {
-    align-self:flex-end; /* Only this item moves to the bottom */
+.item{
+  display: flex;
+  border: 5px solid blue;
+  padding: 15px;
 }

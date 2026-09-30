@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    border: 25px solid black;
+    padding: 20px;
+}
+
+.item{
+    display: flex;
+    border: 15px solid blue;
+    padding: 10px;
+}
+.inside{
+    display: flex;
+    border: 5px solid red;
+    padding: 5px;
+}
